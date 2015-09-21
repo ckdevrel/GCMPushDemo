@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-16-2015\GCMDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-16-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-fa61c5a4259bdf64e70efc53b1169967a200ce24.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-8098ad88a200cfcfde5011d7cfa21c2598931aa0.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-16-2015\GCMDemo\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-16-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\gcm-b336b6493752842bad9dc1a5388b384fac120c49.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-bd7abf28b867a32007985bcf4fb8f4f5ef1a0606.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-017ccd6adc52bea0e52500925ed9f5faf15cdb41.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-04befc0a691fb3d222f0ac72f23123e3580134ad.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-e28fcdf77c06c5809345fd40d7f46c2ada41a02a.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-d4649e5c512311b24628865eeb60f78b1f9c67f9.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-3bb729f4a2b1cf1bf969133f9c0b8f4b95d5288a.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-d8e1af4cfa5710e3dbde7471d9a7cc6864f92075.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-ccebe731048393b70ebc5adfca421116eafa09de.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-8151699eab458e26c333e56c2d5412e4276d55ba.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-387a41243ac7221ac7b0205d2e4de9c077434eec.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-1c78d728d79496b61081a2f06e9cf79b5077cb8b.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-62c5aa9351e7fb5f405605252c4ec24540d7aca7.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-17f191287f4e3f2ba23ea56ccdb14007ab6f6097.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-f53f9dfc496b2c8175f51e3d9f49c8164d3deb75.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d5724b7ff2aa4ee812198c40e5c670af458e70e8.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-961499d048df2b6f219c5ccf6ce657baba60865d.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-d014c9fbe351e307be56eaec09b2b6ad39974fb1.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-cc6437f45a8f1721f20c7184b24aa085e24499bb.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-b4c3f4282ef4f672956fc26ce3e46cfd32dfd189.jar" />
+    </item>
+    <item
+        jar="F:\adt-bundle-windows-x86\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-16-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ea5b6eefe2ad221f1fdf1a001ac154a5a04e760a.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-571c3f77bdfbfe2c816ff5dfc476092927cb98b7.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-a3a45a600a4fdec7b5b7a56bc9792e20ec48ef50.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-16-2015\GCMDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-16-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9d10a27c2f6df7ffd984e064b92495212e842a57.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-defb484ad6386ebd91fa2fb161bb5c1b83fcf86f.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-416ca261f582e7a16e01175e5459f1edd6b58ab6.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-ff9bd44f75f29f32fc6b1ad65e380933e1cd88b0.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="E:\Projects\AndroidStudio\FastTrack\SEP-19-2015\GCMDemo\app\build\intermediates\pre-dexed\debug\classes-38ef7d0c55d626c4a7e94872bfba213d59c17dd1.jar" />
+    </item>
+
+</items>
