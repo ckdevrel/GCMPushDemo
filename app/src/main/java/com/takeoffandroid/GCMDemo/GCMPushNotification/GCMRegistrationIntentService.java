@@ -33,6 +33,9 @@ public class GCMRegistrationIntentService extends IntentService {
                     GoogleCloudMessaging.INSTANCE_ID_SCOPE, null);
 
             Log.i (TAG, "Token " + token);
+
+            sendRegistrationToServer(token);
+
             sharedPreferences.edit().putBoolean(GCMUtils.SENT_TOKEN_TO_SERVER, true).apply();
         } catch (Exception e) {
             Log.d(TAG, "Failedtorefresh", e);
@@ -42,7 +45,19 @@ public class GCMRegistrationIntentService extends IntentService {
         // Notify UI that registration has completed, so the progress indicator can be hidden. 
         Intent registrationComplete = new Intent(GCMUtils.REGISTRATION_COMPLETE);
         LocalBroadcastManager.getInstance(this).sendBroadcast(registrationComplete);
-    } 
- 
- 
+    }
+
+
+    /**
+     * Persist registration to third-party servers.
+     *
+     * Modify this method to associate the user's GCM registration token with any server-side account
+     * maintained by your application.
+     *
+     * @param token The new token.
+     */
+    private void sendRegistrationToServer(String token) {
+        // Add custom implementation, as needed.
+    }
+
 }
